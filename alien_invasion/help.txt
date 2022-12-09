@@ -1,0 +1,19 @@
+帮助文档
+
+这是一款由辉辉亲自打造的太空对战小游戏。
+游戏背景：在广袤无垠的太空里有一群蓝精灵（不是）有一群邪恶的坏人，你的任务就是驾驶飞船摧毁他们。摧毁一群外星人，你的等级会高一级，同时你的子弹速度以及敌人也会变得更快，努力去超过那个最高分吧！
+生命：一共四条，珍惜生命！
+玩法：点击键盘的a向左走，点击键盘的d向右走，点击鼠标左键发射子弹。
+功能（不建议多按，因为会出死机）：i键：控制背景音乐；o键：控制音效；q键：停止游戏。
+彩蛋：w键：连续发射子弹；某个键：可以召唤超级武器（26个字母之一）；
+
+HELP
+
+his is a small space war game created by Huihui.
+Game background: There are a group of smurfs (not) and evil villains in the vast and boundless space,
+Your mission is to destroy them in a spaceship. Destroy a group of aliens, your level will be higher, and your bullet speed
+And the enemy will also become faster, try to exceed the highest score!
+Life: A total of four, cherish life!
+Play: click a on the keyboard to go left, d on the keyboard to go right, and click the left mouse button to fire bullets.
+Function (it is not recommended to press more than once, because the system will crash): i key: control the background music; O key: control the sound effect; Q key: stop the game.
+Egg: w key: fire bullets continuously; A key: can summon a super weapon (one of 26 letters);
